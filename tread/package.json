@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "build-win": "electron-builder -w",
+    "build-linux": "electron-builder -l",
     "start": "electron ."
   },
   "author": "",
